@@ -26,6 +26,8 @@ A aplicação PHP insere registros aleatórios na tabela `dados` e o Nginx distr
                 └──────────────┘
 
 
+
+
 ---
 
 ## 📂 Estrutura de Arquivos
