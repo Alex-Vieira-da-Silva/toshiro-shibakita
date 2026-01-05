@@ -30,6 +30,11 @@ A aplicação PHP insere registros aleatórios na tabela `dados` e o Nginx distr
 
 ## 📂 Estrutura de Arquivos
 
+├── Dockerfile
+├── nginx.conf
+├── index.php
+└── README.md
+
 ---
 
 ⚙️ Configuração do Nginx (Load Balancer)
